@@ -1,0 +1,35 @@
+/* style.css */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#dropzone {
+  padding: 24px;
+  border-style: dashed;
+  position: fixed;
+  color: white;
+
+}
+/* 
+button {
+  background-color: rgb(255, 246, 120);
+  border: none;
+  color: black;
+  padding: 2px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 20px;
+  font-size: 2em;
+} */
